@@ -1,0 +1,50 @@
+body {
+    font-family: 'Your Custom Font', sans-serif; /* Replace with your custom font */
+}
+
+header, footer {
+    background-color: #76541d;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h2 {
+    color: #ea2828;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    }
+  
+.main-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+
+.candy-info {
+    flex: 1;
+}
+
+.candy-images {
+    flex: 1;
+}
+
+.enhancements {
+    /* Add your enhancements styles here */
+}
+
+footer {
+    color: #fefcfc;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* Add additional styles as needed */
